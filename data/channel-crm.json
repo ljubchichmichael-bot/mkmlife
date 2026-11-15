@@ -21,6 +21,7 @@
       "id": "r2",
       "name": "Полезный разбор",
       "days": [
+        0,
         1
       ],
       "color": "orange"
@@ -105,5 +106,9 @@
   "driveFolderId": "",
   "pickerApiKey": "AIzaSyBHYSAuZ-aHSDmv0y2IDzemkBQWg7oC4eI",
   "googleProjectNumber": "288327494463",
-  "weekdayEvents": {}
+  "weekdayEvents": {
+    "0": [
+      "123"
+    ]
+  }
 }
