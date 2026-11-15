@@ -50,11 +50,13 @@
       "status": "Идея",
       "rubric": "Лёгкое на выходные",
       "date": "",
-      "link": "https://drive.google.com/file/d/1V9mt-Ie20L_3XfteL7pFNDNpsqosEYL0/view?usp=drivesdk",
       "tags": [
         "личное"
       ],
-      "archived": false
+      "archived": false,
+      "links": [
+        "https://drive.google.com/file/d/1V9mt-Ie20L_3XfteL7pFNDNpsqosEYL0/view?usp=drivesdk"
+      ]
     },
     {
       "id": "i1",
@@ -66,9 +68,9 @@
         "процесс",
         "личное"
       ],
-      "link": "",
       "archived": false,
-      "notes": "Рассказать про заметки, голосовые и наблюдения в течение дня."
+      "notes": "Рассказать про заметки, голосовые и наблюдения в течение дня.",
+      "links": []
     },
     {
       "id": "i2",
@@ -79,9 +81,9 @@
       "tags": [
         "подборка"
       ],
-      "link": "",
       "archived": true,
-      "notes": "Короткий список с примерами и личным комментарием."
+      "notes": "Короткий список с примерами и личным комментарием.",
+      "links": []
     },
     {
       "id": "i3",
@@ -92,13 +94,16 @@
       "tags": [
         "визуал"
       ],
-      "link": "https://drive.google.com/",
       "archived": true,
-      "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал."
+      "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал.",
+      "links": [
+        "https://drive.google.com/"
+      ]
     }
   ],
   "googleClientId": "288327494463-0fqpdtdvnat16p8etico0dij40en37go.apps.googleusercontent.com",
   "driveFolderId": "",
   "pickerApiKey": "AIzaSyBHYSAuZ-aHSDmv0y2IDzemkBQWg7oC4eI",
-  "googleProjectNumber": "288327494463"
+  "googleProjectNumber": "288327494463",
+  "weekdayEvents": {}
 }
