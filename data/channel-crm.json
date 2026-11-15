@@ -1,0 +1,104 @@
+{
+  "channel": "Мой канал",
+  "tags": [
+    "личное",
+    "гайд",
+    "подборка",
+    "процесс",
+    "визуал"
+  ],
+  "rubrics": [
+    {
+      "id": "r1",
+      "name": "Мысли и наблюдения",
+      "days": [
+        0,
+        3
+      ],
+      "color": "green"
+    },
+    {
+      "id": "r2",
+      "name": "Полезный разбор",
+      "days": [
+        1
+      ],
+      "color": "orange"
+    },
+    {
+      "id": "r3",
+      "name": "За кулисами",
+      "days": [
+        4
+      ],
+      "color": "blue"
+    },
+    {
+      "id": "r4",
+      "name": "Лёгкое на выходные",
+      "days": [
+        5
+      ],
+      "color": "purple"
+    }
+  ],
+  "items": [
+    {
+      "id": "i4",
+      "title": "Что читаю на этой неделе",
+      "notes": "Поделиться одним материалом и объяснить, почему он зацепил.",
+      "status": "Идея",
+      "rubric": "Лёгкое на выходные",
+      "date": "",
+      "link": "https://drive.google.com/file/d/1_HxL5J-lj46O__w_9hhfhpnITwxA5fAC/view?usp=drivesdk",
+      "tags": [
+        "личное"
+      ],
+      "archived": false
+    },
+    {
+      "id": "i1",
+      "title": "Как я собираю идеи для канала",
+      "status": "Черновик",
+      "rubric": "Мысли и наблюдения",
+      "date": "",
+      "tags": [
+        "процесс",
+        "личное"
+      ],
+      "link": "",
+      "archived": true,
+      "notes": "Рассказать про заметки, голосовые и наблюдения в течение дня."
+    },
+    {
+      "id": "i2",
+      "title": "Три полезных приёма, которые прижились",
+      "status": "Идея",
+      "rubric": "Полезный разбор",
+      "date": "",
+      "tags": [
+        "подборка"
+      ],
+      "link": "",
+      "archived": false,
+      "notes": "Короткий список с примерами и личным комментарием."
+    },
+    {
+      "id": "i3",
+      "title": "Набросок для следующего поста",
+      "status": "Готово",
+      "rubric": "За кулисами",
+      "date": "",
+      "tags": [
+        "визуал"
+      ],
+      "link": "https://drive.google.com/",
+      "archived": false,
+      "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал."
+    }
+  ],
+  "googleClientId": "288327494463-0fqpdtdvnat16p8etico0dij40en37go.apps.googleusercontent.com",
+  "driveFolderId": "",
+  "pickerApiKey": "AIzaSyBHYSAuZ-aHSDmv0y2IDzemkBQWg7oC4eI",
+  "googleProjectNumber": "288327494463"
+}
