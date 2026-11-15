@@ -51,13 +51,13 @@
       "status": "Идея",
       "rubric": "Лёгкое на выходные",
       "date": "",
+      "links": [
+        "https://drive.google.com/file/d/1V9mt-Ie20L_3XfteL7pFNDNpsqosEYL0/view?usp=drivesdk"
+      ],
       "tags": [
         "личное"
       ],
-      "archived": false,
-      "links": [
-        "https://drive.google.com/file/d/1V9mt-Ie20L_3XfteL7pFNDNpsqosEYL0/view?usp=drivesdk"
-      ]
+      "archived": false
     },
     {
       "id": "i1",
