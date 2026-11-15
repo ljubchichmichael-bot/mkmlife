@@ -80,7 +80,7 @@
         "подборка"
       ],
       "link": "",
-      "archived": false,
+      "archived": true,
       "notes": "Короткий список с примерами и личным комментарием."
     },
     {
@@ -93,7 +93,7 @@
         "визуал"
       ],
       "link": "https://drive.google.com/",
-      "archived": false,
+      "archived": true,
       "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал."
     }
   ],
