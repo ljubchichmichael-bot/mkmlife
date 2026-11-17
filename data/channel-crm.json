@@ -47,6 +47,12 @@
       "name": "Новости",
       "color": "green",
       "days": []
+    },
+    {
+      "id": "addfadeb-ebd8-4236-9f26-c0f569d9b96e",
+      "name": "Концепты",
+      "color": "green",
+      "days": []
     }
   ],
   "items": [
