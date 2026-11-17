@@ -41,6 +41,12 @@
         5
       ],
       "color": "purple"
+    },
+    {
+      "id": "78370d74-6440-41e0-8231-e20bc85fdc35",
+      "name": "Новости",
+      "color": "green",
+      "days": []
     }
   ],
   "items": [
