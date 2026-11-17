@@ -52,17 +52,13 @@
   "items": [
     {
       "id": "i4",
-      "title": "Что читаю на этой неделе",
+      "title": "СФ против МК2",
       "notes": "Поделиться одним материалом и объяснить, почему он зацепил.",
       "status": "Идея",
-      "rubric": "Лёгкое на выходные",
+      "rubric": "Новости",
       "date": "",
-      "links": [
-        "https://drive.google.com/file/d/1V9mt-Ie20L_3XfteL7pFNDNpsqosEYL0/view?usp=drivesdk"
-      ],
-      "tags": [
-        "личное"
-      ],
+      "links": [],
+      "tags": [],
       "archived": false
     },
     {
