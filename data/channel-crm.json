@@ -142,6 +142,14 @@
   "theme": "light",
   "referenceNotes": [
     {
+      "id": "cb6056cf-7fef-403a-9cac-7269ba8b3dd1",
+      "title": "Реклама",
+      "body": "123",
+      "links": [],
+      "createdAt": "2026-11-19T17:11:32.598Z",
+      "updatedAt": "2026-11-19T17:11:32.598Z"
+    },
+    {
       "id": "7273a85e-9c94-4ee3-8015-00761ff19c6b",
       "title": "1231231",
       "body": "",
@@ -156,14 +164,6 @@
       "links": [],
       "createdAt": "2026-11-19T17:11:37.948Z",
       "updatedAt": "2026-11-19T17:11:37.948Z"
-    },
-    {
-      "id": "cb6056cf-7fef-403a-9cac-7269ba8b3dd1",
-      "title": "Реклама",
-      "body": "123",
-      "links": [],
-      "createdAt": "2026-11-19T17:11:32.598Z",
-      "updatedAt": "2026-11-19T17:11:32.598Z"
     }
   ],
   "calendarEvents": {
@@ -204,6 +204,6 @@
     "26": [],
     "27": []
   },
-  "referenceSort": "newest",
+  "referenceSort": "manual",
   "itemSort": "manual"
 }
