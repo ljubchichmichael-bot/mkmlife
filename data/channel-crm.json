@@ -57,17 +57,6 @@
   ],
   "items": [
     {
-      "id": "a54e5ad9-2bf4-41bf-893b-b3036a8e35fc",
-      "title": "Концепт призраков Круга тени",
-      "notes": "",
-      "status": "Идея",
-      "rubric": "Концепты",
-      "date": "",
-      "links": [],
-      "tags": [],
-      "archived": false
-    },
-    {
       "id": "07597380-7c26-4954-bfbf-4dd797ec613f",
       "title": "Фигурки НВ, Горо, Скорп",
       "notes": "",
@@ -76,7 +65,20 @@
       "date": "",
       "links": [],
       "tags": [],
-      "archived": false
+      "archived": false,
+      "createdAt": "2026-11-19T17:11:12.274Z"
+    },
+    {
+      "id": "a54e5ad9-2bf4-41bf-893b-b3036a8e35fc",
+      "title": "Концепт призраков Круга тени",
+      "notes": "",
+      "status": "Идея",
+      "rubric": "Концепты",
+      "date": "",
+      "links": [],
+      "tags": [],
+      "archived": false,
+      "createdAt": "2026-11-19T17:11:11.274Z"
     },
     {
       "id": "i4",
@@ -87,7 +89,8 @@
       "date": "",
       "links": [],
       "tags": [],
-      "archived": false
+      "archived": false,
+      "createdAt": "2026-11-19T17:11:10.274Z"
     },
     {
       "id": "i1",
@@ -98,7 +101,8 @@
       "date": "",
       "links": [],
       "tags": [],
-      "archived": true
+      "archived": true,
+      "createdAt": "2026-11-19T17:11:09.274Z"
     },
     {
       "id": "i2",
@@ -111,7 +115,8 @@
       ],
       "archived": true,
       "notes": "Короткий список с примерами и личным комментарием.",
-      "links": []
+      "links": [],
+      "createdAt": "2026-11-19T17:11:08.274Z"
     },
     {
       "id": "i3",
@@ -126,17 +131,54 @@
       "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал.",
       "links": [
         "https://drive.google.com/"
-      ]
+      ],
+      "createdAt": "2026-11-19T17:11:07.274Z"
     }
   ],
   "googleClientId": "288327494463-0fqpdtdvnat16p8etico0dij40en37go.apps.googleusercontent.com",
   "driveFolderId": "",
   "pickerApiKey": "AIzaSyBHYSAuZ-aHSDmv0y2IDzemkBQWg7oC4eI",
   "googleProjectNumber": "288327494463",
-  "weekdayEvents": {
+  "theme": "light",
+  "referenceNotes": [],
+  "calendarEvents": {
     "0": [
       "123"
-    ]
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [
+      "123"
+    ],
+    "8": [],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": [],
+    "13": [],
+    "14": [
+      "123"
+    ],
+    "15": [],
+    "16": [],
+    "17": [],
+    "18": [],
+    "19": [],
+    "20": [],
+    "21": [
+      "123"
+    ],
+    "22": [],
+    "23": [],
+    "24": [],
+    "25": [],
+    "26": [],
+    "27": []
   },
-  "theme": "light"
+  "referenceSort": "manual",
+  "itemSort": "manual"
 }
