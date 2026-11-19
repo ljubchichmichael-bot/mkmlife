@@ -103,22 +103,6 @@
       "tags": [],
       "archived": true,
       "createdAt": "2026-11-19T17:11:09.274Z"
-    },
-    {
-      "id": "i3",
-      "title": "Набросок для следующего поста",
-      "status": "Готово",
-      "rubric": "За кулисами",
-      "date": "",
-      "tags": [
-        "визуал"
-      ],
-      "archived": true,
-      "notes": "Добавить ссылку на папку с иллюстрациями и дописать финал.",
-      "links": [
-        "https://drive.google.com/"
-      ],
-      "createdAt": "2026-11-19T17:11:07.274Z"
     }
   ],
   "googleClientId": "288327494463-0fqpdtdvnat16p8etico0dij40en37go.apps.googleusercontent.com",
