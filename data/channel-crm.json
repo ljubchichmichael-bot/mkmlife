@@ -140,7 +140,16 @@
   "pickerApiKey": "AIzaSyBHYSAuZ-aHSDmv0y2IDzemkBQWg7oC4eI",
   "googleProjectNumber": "288327494463",
   "theme": "light",
-  "referenceNotes": [],
+  "referenceNotes": [
+    {
+      "id": "cb6056cf-7fef-403a-9cac-7269ba8b3dd1",
+      "title": "Реклама",
+      "body": "123",
+      "links": [],
+      "createdAt": "2026-11-19T17:11:32.598Z",
+      "updatedAt": "2026-11-19T17:11:32.598Z"
+    }
+  ],
   "calendarEvents": {
     "0": [
       "123"
