@@ -142,12 +142,12 @@
   "theme": "light",
   "referenceNotes": [
     {
-      "id": "cb6056cf-7fef-403a-9cac-7269ba8b3dd1",
-      "title": "Реклама",
-      "body": "123",
+      "id": "e383c6d5-f521-4e4d-a323-dd48cf818672",
+      "title": "1233",
+      "body": "",
       "links": [],
-      "createdAt": "2026-11-19T17:11:32.598Z",
-      "updatedAt": "2026-11-19T17:11:32.598Z"
+      "createdAt": "2026-11-19T17:11:37.948Z",
+      "updatedAt": "2026-11-19T17:11:37.948Z"
     },
     {
       "id": "7273a85e-9c94-4ee3-8015-00761ff19c6b",
@@ -158,12 +158,12 @@
       "updatedAt": "2026-11-19T17:11:40.671Z"
     },
     {
-      "id": "e383c6d5-f521-4e4d-a323-dd48cf818672",
-      "title": "1233",
-      "body": "",
+      "id": "cb6056cf-7fef-403a-9cac-7269ba8b3dd1",
+      "title": "Реклама",
+      "body": "123",
       "links": [],
-      "createdAt": "2026-11-19T17:11:37.948Z",
-      "updatedAt": "2026-11-19T17:11:37.948Z"
+      "createdAt": "2026-11-19T17:11:32.598Z",
+      "updatedAt": "2026-11-19T17:11:32.598Z"
     }
   ],
   "calendarEvents": {
