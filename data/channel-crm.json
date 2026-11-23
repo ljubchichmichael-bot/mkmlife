@@ -57,6 +57,18 @@
   ],
   "items": [
     {
+      "id": "994d950a-edef-457a-98a5-094f4f35e451",
+      "title": "Итоги года",
+      "notes": "Снаряжение\nПерсонаж\nСобытие",
+      "status": "Идея",
+      "rubric": "",
+      "date": "",
+      "links": [],
+      "tags": [],
+      "archived": false,
+      "createdAt": "2026-11-23T10:23:15.290Z"
+    },
+    {
       "id": "d0ee3e16-a68c-4444-b6fa-8454e0c4a803",
       "title": "The Game Awards",
       "notes": "",
